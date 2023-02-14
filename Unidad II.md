@@ -1,0 +1,8 @@
+# Unidad 2
+
+## Conceptos básicos para iniciar a programar: consiste en poder permitir introductoriamente poder determinar los diferentes tipos de lenguajes que se pueden presentar para poder elaborar un sistema. Además, logra notar con coherencia poder colocar todos los elementos en un orden lógico por ejemplo con las tablas de verdad poder dar una orden estructurada para obtener un lógico resultado plasmado en un sistema.
+Tipos de datos y operadores: es una clasificación que nos permite clasificar y definir los posibles valores y las operaciones que se pueden realizar.
+Estructura de control condicionales: este es una condicionante donde podemos dar una indicación con un lenguaje por ejemplo de if, while que permite orientar un sistema para obtener adecuadamente un resultado por ejemplo podemos determinar cada día el tipo de cambio en el que se obtienen resultados de cómo estará cada día el cambio de un dólar por quetzales.
+Estructura de control de bucles: en esta unidad aprendimos a poder orientar las indicaciones con una lógica y coherencia tomando en cuenta todas las variables que se puedan presentar dentro de la actividad que vamos a realizar dentro de un programa orientado a tener un preciso resultado. 
+En la vida real estos temas son de mucha importancia ya que nos ayudan a crear una conciencia de poder realizar las actividades orientadas a una lógica y coherencia de determinadas acciones dentro de una institución, y hasta en la vida cotidiana.
+En programación determinar la orientación de los condicionantes permitirán lograr usar una fuente rentable de optimización de recursos debido a que podemos utilizar por ejemplo los condicionantes para logar un correcto control y búsqueda de los resultados que queremos obtener dentro de un sistema.
